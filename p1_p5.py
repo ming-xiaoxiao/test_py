@@ -58,3 +58,8 @@ list1.append(1)
 list2.append(2)
 print(list1)
 print(list2)
+
+list2.append(1)
+print(list2)
+list2.remove(1)
+print(list2)

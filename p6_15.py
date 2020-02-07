@@ -15,3 +15,6 @@ print(dic.values())
 
 # set 集合————自动去重
 
+# input
+msg = input('tell me sth:')
+print('you tell ————' + msg)
