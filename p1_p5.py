@@ -6,6 +6,11 @@ print('lower函数：' + msg.lower())
 print((msg+'   ').rstrip())
 print(('    ' + msg).strip())
 
+string = 'this is a test'
+# split函数返回的是列表
+print(string.split())
+
+
 # 列表
 li = []
 li.append("a")
@@ -63,3 +68,5 @@ list2.append(1)
 print(list2)
 list2.remove(1)
 print(list2)
+
+
